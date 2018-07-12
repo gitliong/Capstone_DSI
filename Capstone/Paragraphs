@@ -1,0 +1,461 @@
+0
+"Job Number: 18230
+"
+"Position Title:
+"
+"External Description:
+"
+"City: Atlanta
+"
+"Location_formattedLocationLong: Atlanta, Georgia US
+"
+"State: Georgia
+"
+"Community / Marketing Title: Data Scientist
+"
+"Company Profile:
+"
+"Requisition Number: J00067915
+"
+"EEO Employer Verbiage: <p>Equifax is an Equal Employment Opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>"
+"Truck IT, LLC (""Truck IT""), (Headquartered in Midtown Atlanta @ the new and upscale We Work building), is focused on revolutionizing construction transportation for both customers (e.g., contractors, quarries) and haulers through our proprietary mobile and web applications. We’ve been recognized as one of BuiltWorlds ""45 companies & technologies paving our future in IoT and connected jobsites""... coming in at #15 and the only company based in Atlanta. Our goal is to become the next $1 billion Tech Services company and we need to add a Data Scientist to move closer to that goal."
+"Data is the driver for our future at Truck IT. We’re searching for highly collaborative, analytical, and innovative engineers to build and scale our big data and ML platform. If you are passionate about using data to solve problems and build game changing products, we’d love to work with you."
+ROLE
+"Working within a dynamic and fast paced team environment, the Senior Engineer is responsible for the design, construction, and maintenance of mission-critical, highly visible big data and machine learning applications in direct support of Truck IT business objectives. Furthermore, this person is responsible for working with other engineers to develop the technical design by fully understanding the technical details, integration, and functions of multiple applications across their development team. The ideal candidate should have good mentoring and cross-functional skills."
+ABOUT THE TEAM
+"The Big Data and Machine Learning team is responsible for building big data pipelines and deriving insights out of the data using advanced analytic techniques, streaming and machine learning at scale."
+WHAT’S IN IT FOR YOU
+FOCUS
+Required Qualifications
+Preferred Qualifications
+Job Type: Full-time
+Location:
+Required work authorization:
+Apply Now
+"
+            Please review all application instructions before applying to TruckIT."
+"
+(function(){var a=window.indeed;
+            if(!a||!a.ia){
+            var b=window,
+                c=document.location,
+                e=document.getElementsByTagName(""head"")[0],
+                f=/^https:\/\//.test(c.href),
+                g=document.createElement(""script""),
+                h=document.getElementById(""indeed-apply-js"").attributes[""data-indeed-apply-qs""],
+                n=h&&h.value?h.value:"""";
+            b.indeed=b.indeed||{};b.indeed.ia=b.indeed.ia||{};
+            g.src=(f?
+        ""https://apply.indeed.com/indeedapply/env?https=1&iip=1&"":""https://apply.indeed.com/indeedapply/env?iip=1&"")+""ms=""+ +new Date+(n?""&""+n:"""");e.appendChild(g)};})();"
+DEPARTMENT: HOPE Research Institute
+"POSITION LOCATIONS: Atlanta, GA."
+"ACCOUNTABILITY:  Senior VP, HOPE Research Institute"
+"For 25 years Operation HOPE has been dedicated to empowering underserved communities through financial literacy, now our work encompasses more than financial education. Our work is about instilling knowledge and confidence in those we serve so they can experience, sometimes for the first time in their lives, financial dignity."
+JOB SUMMARY
+"Operation HOPE is currently in need of a Data Scientist to join our fast-growing team. The ideal candidate will use his/her analytical, statistical and programming skills to collect, analyze and interpret Operation HOPEâ€™s data sets to help drive improved product performance, increase customer satisfaction and reduce cost of operation. The data scientist will be intricately involved in analyzing programmatic data to inform operational practices, conducting analytical experiments in a methodical manner, and will regularly evaluate alternate models via theoretical approaches."
+"The Data Scientist is responsible to help understand operational needs, working with the field supervisors, head of quality and other department leaders as required. Using that knowledge, this position will drive a data-driven solution to solving broad and complex inefficiencies. Additionally, the Data Scientist may be called on to help cross-functional efforts to model large data sets and will work with other technical departments to enhance process control both internally and externally. This is the perfect opportunity for the successful candidate to become a part of an innovative non-profit team that develops analysis tools that will change the world and uplift underserved communities."
+DUTIES AND RESPONSIBILITIES
+REQUIRED SKILLS AND EDUCATION
+EEOSTATEMENT
+"Operation HOPE is an Equal Opportunity Employer, all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information or any other characteristic protected by law."
+Job Type: Full-time
+Experience:
+Education:
+Location:
+Required work authorization:
+Apply Now
+"
+            Please review all application instructions before applying to Operation HOPE."
+"
+(function(){var a=window.indeed;
+            if(!a||!a.ia){
+            var b=window,
+                c=document.location,
+                e=document.getElementsByTagName(""head"")[0],
+                f=/^https:\/\//.test(c.href),
+                g=document.createElement(""script""),
+                h=document.getElementById(""indeed-apply-js"").attributes[""data-indeed-apply-qs""],
+                n=h&&h.value?h.value:"""";
+            b.indeed=b.indeed||{};b.indeed.ia=b.indeed.ia||{};
+            g.src=(f?
+        ""https://apply.indeed.com/indeedapply/env?https=1&iip=1&"":""https://apply.indeed.com/indeedapply/env?iip=1&"")+""ms=""+ +new Date+(n?""&""+n:"""");e.appendChild(g)};})();"
+"Cotiviti is looking for an industry leading Data Scientist to join a revolution in Healthcare and build a first-in-market analytics capability. This is a pioneering data scientist who will participate in expanding the new analytics backbone of the company. Cotiviti’s first-in-market analytics capability is powered by social networking technology and enables a more efficient experience for both healthcare providers and customers. As a Data Scientist at Cotiviti you will be given the opportunity to work directly with a team of healthcare professionals including analysts, clinicians, coding specialists, auditors and innovators to set aggressive goals and execute on them with the team. This is for an ambitious technologist with the guts, flexibility, and personal drive to succeed in a dynamic environment."
+"
+Who You Are"
+"What You Will be Doing
+"
+You will build innovative tools to provide our clients with insights on how to improve their business. You will have responsibility for architecting and developing best-in-class analytics that create quantifiable value for our business. You will have responsibility for establishing and sustaining processes and practices that support big data and analytics solutions and applications in an open source environment. You should have a passion for creating solutions and driving innovation with an interest in collaborating with team members. This role demands time spent working independently and as part of a team. You will also focus on specific deadlines defined by the management team.
+Requirements:
+Preferred Qualifications:
+Data Scientist
+"Want to work in a casual, fun startup environment? AnswerRocket has been fundamentally changing the way organizations use data to make decisions every day. Our software uses natural language data discovery and machine learning algorithms to enable business leaders to make better, faster decisions. We are seeking a Data Scientist who will serve as part of our technical team in developing analytics solutions to solve customer business problems and improve processes."
+Responsibilities: 
+Requirements: 
+Extra Awesome
+What We Offer
+About AnswerRocket
+"Founded by successful technology entrepreneurs in 2013, our offices are located in metro Atlanta and include a fun work environment with the dynamic vibe for growth. Customers love what we are doing, and Gartner has recently named us a Cool Vendor in analytics. Our team consists of smart and creative people who are motivated by clear goals to deliver “a ha” moments to our customers. We are breaking away from tired, traditional software and are committed to delivering high quality, well-engineered solutions that fit into modern enterprises. AnswerRocket offers the opportunity to grow immensely, both personally and professionally, as we leverage the latest technology to change how companies use big data."
+"All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status, or any other legally protected basis, in accordance with applicable law. We are an Equal Opportunity Employer."
+Job Type: Full-time
+Experience:
+Education:
+Location:
+Required work authorization:
+Apply Now
+"
+            Please review all application instructions before applying to AnswerRocket."
+"
+(function(){var a=window.indeed;
+            if(!a||!a.ia){
+            var b=window,
+                c=document.location,
+                e=document.getElementsByTagName(""head"")[0],
+                f=/^https:\/\//.test(c.href),
+                g=document.createElement(""script""),
+                h=document.getElementById(""indeed-apply-js"").attributes[""data-indeed-apply-qs""],
+                n=h&&h.value?h.value:"""";
+            b.indeed=b.indeed||{};b.indeed.ia=b.indeed.ia||{};
+            g.src=(f?
+        ""https://apply.indeed.com/indeedapply/env?https=1&iip=1&"":""https://apply.indeed.com/indeedapply/env?iip=1&"")+""ms=""+ +new Date+(n?""&""+n:"""");e.appendChild(g)};})();"
+Requisition 10254: Fall 2018 - Operations Research/Data Scientist
+Posting Start Date: 06/12/2018
+Posting End Date: 08/01/2018
+"A Day in the Life of an Operations Research Intern
+"
+"As a Data Scientist/Machine Learning Intern, you will be working with a team of Data Science professionals who apply various cutting edge machine learning and statistical techniques to real-life use-cases and provide actionable insights to the business. You will have the opportunity of working with Norfolk Southern’s big data analytics platform and mine massive amounts of data using various toolsets like R, Python, Spark, TensorFlow, Keras, OpenCV, Hive, etc."
+What Makes a Successful Co-Op/Intern?
+"Education/Experience
+"
+Compensation
+"Norfolk Southern Corporation (NYSE: NSC) is one of the nation’s premier transportation companies. Its Norfolk Southern Railway Company subsidiary operates approximately 19,500 route miles in 22 states and the District of Columbia, serves every major container port in the eastern United States, and provides efficient connections to other rail carriers. Norfolk Southern operates the most extensive intermodal network in the East and is a major transporter of coal, automotive, and industrial products.
+
+We are a team of more than 28,000 employees working together to maintain our reputation as ""The Thoroughbred of Transportation"". As an industry leader, Norfolk Southern offers a competitive salary and an excellent benefits package."
+Norfolk Southern is an equal opportunity employer including veterans and disabled.
+"Join a team recognized for leadership, innovation and diversity"
+"Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, or veteran status."
+"
+INDSOFTWARE"
+"Join a growing Data Science and Advanced Analytics team at Norfolk Southern Corporation. The team is using latest cutting edge tools and technologies to develop analytics and solutions to solve business problems from various fields such as engineering, mechanical, communications, marketing & finance."
+Principal Duties:
+Job Related Experience:
+"Minimum Level: 1 year; preferred Level: 2+ years of relevant experience (e.g. analysist, statistician, data scientist, team lead) or proven qualifications"
+Education:
+Preferred Level: Ph.D. and M.S
+"Preferred Majors: Computer and Information Sciences, Electrical Engineering, Engineering – Statistics, Engineering - Operations Research, Engineering - Systems Engineering, Mathematical Sciences - Applied Mathematics, Physics"
+"Licenses / Certifications: Required: None listed, Preferred: None listed"
+Technical Skills:
+Skills and Abilities:
+"Work Conditions
+"
+"Norfolk Southern Corporation (NYSE: NSC) is one of the nation’s premier transportation companies. Its Norfolk Southern Railway Company subsidiary operates approximately 19,500 route miles in 22 states and the District of Columbia, serves every major container port in the eastern United States, and provides efficient connections to other rail carriers. Norfolk Southern operates the most extensive intermodal network in the East and is a major transporter of coal, automotive, and industrial products.
+
+We are a team of more than 28,000 employees working together to maintain our reputation as ""The Thoroughbred of Transportation"". As an industry leader, Norfolk Southern offers a competitive salary and an excellent benefits package."
+Norfolk Southern is an equal opportunity employer including veterans and disabled.
+"We know salary is a key component of your decision whether or not to apply for a job. So when the hiring company hasn’t provided a salary for a job, we look at salary data from related companies and locations to come up with a reasonable estimate for what you can expect."
+"With over 450,000,000 salaries collected from other jobs and employees, we use one of the biggest salary databases in the world to inform these estimates. And because we are continually adding feedback from users like you, we are able to keep refining our accuracy."
+"These salary estimates are not endorsed by the hiring companies and may vary from what’s actually offered, but we have a pretty great record of getting close enough for you to make an informed decision."
+Is this your job listing? Send us feedback to correct an inaccurate salary estimate.
+Apply Now
+"
+            Please review all application instructions before applying to Relus Cloud
+ ."
+"
+(function(){var a=window.indeed;
+            if(!a||!a.ia){
+            var b=window,
+                c=document.location,
+                e=document.getElementsByTagName(""head"")[0],
+                f=/^https:\/\//.test(c.href),
+                g=document.createElement(""script""),
+                h=document.getElementById(""indeed-apply-js"").attributes[""data-indeed-apply-qs""],
+                n=h&&h.value?h.value:"""";
+            b.indeed=b.indeed||{};b.indeed.ia=b.indeed.ia||{};
+            g.src=(f?
+        ""https://apply.indeed.com/indeedapply/env?https=1&iip=1&"":""https://apply.indeed.com/indeedapply/env?iip=1&"")+""ms=""+ +new Date+(n?""&""+n:"""");e.appendChild(g)};})();"
+"Full-time, permanent position available starting immediately. Looking for a data scientist and computer scientist with experience working on large datasets to extract meaningful insight. In particular skillsets both in doing data science (statistical analysis and inference, machine learning, and graph analytics) as well as software engineering experience building tools and applications for data science (using python, R, etc.) are desired. Additionally, skills in building deployable models that integrate with actual systems that drive decision is a plus. Experience with managing business problems and working with business customers desired. Candidate needs to be able to communicate effectively their results both through documentation as well as through technical writing and reports. Candidate may also be asked to work on proposals for funding, thus proposal writing experience is preferred. Application domains of interest are varied and may include predictive maintenance data (both structured and unstructured data), healthcare analytics, and more."
+"
+The projects are based out of 75th 5th St, NW, Atlanta, on the Georgia Tech campus. Occasional travel may be required and is project dependent."
+"
+The High Performance Computing and Data Analytics branch at GTRI works on problems ranging from low-level computer architecture design, to building scalable algorithms and data structures, to machine learning and statistical inference. Our team spans the full technology stack to bring cutting-edge research in data analytics to scale, and then apply those analytics to real-world problems to enable actionable insight. Our team works on a variety of projects ranging from data analytics in healthcare, data analysis on IoT devices and Smart Cities, predictive modeling of industry data, graph analytics of network traffic for cybersecurity applications, and large scale parallel and discrete event simulations. We are looking for candidates that are excited by taking their skills to a variety of problems always with an eye on customer value, performance, and scalability."
+Research Engineer/Scientist I
+Ability to obtain Secret Clearance upon hire
+"Are you a business problem solver who is passionate about using data analytics to influence business decisions? If so, the Data Scientist role is the perfect fit for you.
+"
+"Position: Data Scientist
+"
+"Reporting to: Head of Business Intelligence & Data Analytics
+"
+"Location: Atlanta GA
+"
+"About the Business Intelligence Team:
+"
+"Highly skilled, close knit, technical and functional analytical team. This team spans between Manhattan NY and Atlanta GA.
+"
+"The role
+"
+"This is a high impact role for a critical thinker who enjoys applying core technical skills and innovative thinking to solve complex business problems and identify business opportunity. The incumbent will be versatile who must be able to successfully operate in a fast-paced and rapidly changing environment, handle multiple competing priorities, support evidence-based decision logic and provide predictive modelling solutions.
+"
+"You’ll work as part of a team whose efforts will be wide-ranging, spanning multiple business functions and require a multi-disciplinary approach to problem solving and analysis. The position will report to the Pricing & Analytics, Manager with a dotted reporting line to the EVP, Direct & Partnerships Division. The role will focus on continuous analysis and data mining of end to end operations and the direct customer lifecycle to help grow our direct to consumer customer base.
+"
+"This role will be given the latitude to examine all information in relation to the direct business without the restrictions of project based work, and will be expected to use their inquisitive nature to mine for opportunity and insights often within a loose directional framework. The final products you produce could range from predictive models and scoring for decision support to ad-hoc analysis. You will be expected to challenge conventional thinking and drive fact based decision making.
+"
+"This is an ideal role for an individual who is passionate about the use of analytics to influence decisions. The individual will be expected to conceptualize new ways of doing things, communicate their vision simply and effectively to key stakeholders, and see them all the way through to implementation
+"
+"This is a fantastic opportunity to join Hiscox USA, a growing business where you will be able to make a real impact. You will become part of a team that is driving innovation and leading the company to develop strong analytic capabilities.
+"
+". What you’ll be doing as a Data Scientist:
+"
+"Continuously analyse the end to end customer journey to help drive insights into the acquisition, conversion or retention of a customer across marketing, operations, claims or other areas within DPD.
+"
+"Conduct ad-hoc analysis as requested or as identified independently that supports periodic assumption setting and/or provides the business with greater insights into DPD policyholder or potential customer behaviour.
+"
+"Work closely with senior leaders in understanding DPD business strategy and assist in guiding and supporting strategic direction by providing compelling recommendations derived from advanced analytics
+"
+"Understanding complex business challenges, designing scientific solutions, manipulating large data sets, using cutting edge machine learning or statistical modeling techniques to synthesize insights
+"
+"Leveraging industry standards, emerging methodologies and empirical research to develop critical inputs to business information, and helping business leaders develop innovative approaches to driving their business.
+"
+"Works closely with data & solution services to ensure data quality, data availability and industrialization of analytic procedures.
+"
+"Work collaboratively with other embedded data scientist in order to help support maturation of analytics practice within the organization.
+"
+Ensure documentation standards are proactively met.
+"Our must-haves:
+"
+"Degree in Applied Mathematics, Statistics, Computer Science (or related fields).
+"
+"3-5 years of data mining and/or advanced analytics experience.
+"
+"Experience data mining in Ecommerce environment a plus
+"
+"Skills:
+"
+"Experience in programming languages for large scale data and predictive analysis (predictive modeling, machine learning or data mining) to draw business inferences and clearly articulate findings for target audience.
+"
+"Strong experience with analytical tools / programming languages (R, Python, STATA, SPSS, SQL, MS cognitive services).
+"
+"Strong verbal and written communications skills, listening and teamwork, and effective presentation skills. This is absolutely essential since you will have a lot of exposure to different internal groups (data, IT, product, underwriting and sales) as well as third-party partners and customers (insurance companies).
+"
+"Knowledge of insurance and distribution practices a plus.
+"
+"Strong statistical modeling skills a plus.
+"
+"Experience with BI tools (i.e. Tableau, Cognos)
+"
+"Hiscox Values
+"
+"At Hiscox our spirit is in Challenging Convention and everything we do is guided by our Values.
+"
+"Courage: Do the right thing however hard
+"
+"Quality: World class where it matters
+"
+"Integrity: True to our word
+"
+"Excellence in Execution: Consistent, timely, efficient delivery
+"
+"Human: Firm, fair and inclusive
+"
+"What Hiscox USA Offers
+"
+"Competitive salary and bonus (based on personal & company performance)
+"
+"Comprehensive health insurance, Vision, Dental and FSA
+"
+"401(k) with competitive company matching
+"
+"24 Paid time off days
+"
+"10 paid holidays
+"
+"Paid sabbatical after 10 years of service
+"
+"Dynamic, creative and values-driven culture
+"
+"Modern and open office spaces, complimentary fruit and drinks
+"
+"Spirit of volunteerism, social responsibility and community involvement, including matching charitable donations for qualifying non-profits via our sister non-profit company, the Hiscox USA Foundation
+"
+"About Hiscox
+"
+"As an international specialist insurer we are far removed from the world of mass market insurance products. Instead we are selective and focus on our key areas of expertise and strength - all of which is underpinned by a culture that encourages us to challenge convention and always look for a better way of doing things.
+"
+"We insure the unique and the interesting. And we search for the same when it comes to talented people. Hiscox is full of smart, reliable human beings that look out for customers and each other. We believe in doing the right thing, making good and rebuilding when things go wrong. Everyone is encouraged to think creatively, challenge the status quo and look for solutions.
+"
+"Scratch beneath the surface and you will find a business that is solid, but slightly contrary. We like to do things differently and constantly seek to evolve. We might have been around for a long time (our roots go back to 1901), but we are young in many ways, ambitious and going places.
+"
+"Some people might say insurance is dull, but life at Hiscox is anything but. If that sounds good to you, get in touch.
+"
+"About Hiscox US
+"
+"Hiscox USA was established in 2006 to focus primarily on the needs of small and middle market commercial clients, via both the broker and direct distribution channels and is today the fastest-growing business unit within the Hiscox Group.
+"
+"Today, Hiscox USA has a talent force of about 420 employees mostly operating out of 6 major cities - New York, Atlanta, Dallas, Chicago, Los Angeles and San Francisco. Hiscox USA offers a broad portfolio of commercial products, including technology, cyber & data risk, multiple professional liability lines, media, entertainment, management liability, crime, kidnap & ransom, commercial property and terrorism.
+"
+"You can follow Hiscox on LinkedIn, Glassdoor and Instagram (@HiscoxInsurance)
+"
+#LI-VG1
+"Driving Infinite Possibilities Within A Diversified, Global Organization"
+"Honeywell is a Fortune 100 company with global sales surpassing $40B and has been one of Fortune’s Most Admired Companies for over a decade. Through innovation, the Company brings together the physical and digital world to tackle some of the toughest societal and business problems – making the world a more productive, safe, and sustainable place.
+
+The business is organized into five primary groups: Aerospace, Buildings, Performance Materials and Technologies, Safety and Productivity Solutions, and the Connected Enterprise. Honeywell specializes in things that are critically connected - beyond smart phones and laptops, we make the kinds of connections that keep cities working, planes flying, plants running, and workers safe. Our unique capabilities, over a century in the making, bring together data, expertise, and technology to connect people, processes, and assets.
+
+Honeywell International is building a world that’s safer and more secure, more comfortable and energy efficient, more innovative and productive. For more information, please visit Honeywell.com or follow us @HoneywellNow.
+
+We’re looking for a new team member who is motivated by cracking tough challenges with data, trained in problem solving, and with an unending thirst for learning.
+
+As a Advanced Data Scientist, you will join a high-performing, global team, and be responsible for designing, developing, and implementing data driven solutions for all Honeywell business groups and functions. You will work closely with application architects to integrate results into operational platforms, including Hadoop and NoSQL architectures.
+
+The Advanced Data Scientist role is expected to work within Honeywell to identify opportunities for new growth and efficiency based on data analyses.
+
+You will also be expected to actively participate in defining and governing our analytics strategy for Honeywell, as well as begin a strong leader in executing data science driven projects as we build out capabilities and our architecture.
+
+You will report to the Data Science Site Leader in the Honeywell Industrial Analytics organization, part of the Connected Enterprise.
+
+Specific Responsibilities:
+
+Develop data modeling, mining, pattern analysis, data visualization and machine learning solutions to address customer needs
+
+Foster relationships with business team members by being proactive, displaying a thorough understanding of the business processes and by recommending innovative solutions
+
+Communicate project output in terms of customer value, business objectives, and product opportunity
+
+Promote data science methods and processes across functions
+
+Work with our businesses and infrastructure teams to develop a strategy that will clearly outline how our enterprise platforms can enable business growth & productivity"
+"Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, or veteran status."
+"Job Number: 16614
+"
+"Position Title:
+"
+"External Description:
+
+The Data Scientist will perform complex modeling and algorithm development on large data sets to resolve disparate data into a single real world entity and develop relationship structures among entities. Typical solutions will use probabilistic matching, machine learning and graph theory to resolve entities, and very large scale structured and unstructured data sets. Additional responsibilities will be to develop proven processes to enhance data, develop quantitative and qualitative analysis to validate recommendations and create clear presentations.
+
+Essential Job Functions:
+"
+"City: Atlanta
+"
+"Location_formattedLocationLong: Atlanta, Georgia US
+"
+"State: Georgia
+"
+"Community / Marketing Title: Data Scientist, Keying & Linking
+"
+"Company Profile:
+"
+"Requisition Number: J00061970
+"
+"EEO Employer Verbiage: <p>Equifax is an Equal Employment Opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>"
+Softcrylic is looking to add a Data Scientist to our growing team in our Atlanta location. The candidate will be working within our Analytics division providing ample opportunity to learn or further grow your knowledge. The candidate will work with our Fortune 500 clients and have the opportunity to be involved in high exposure product development and services. We are looking for someone who can grow with our business and are able to provide an excellent career path in the Analytics domain.
+Job Description: 
+"Job Types: Full-time, Contract"
+Apply Now
+"
+            Please review all application instructions before applying to Softcrylic LLC."
+"
+(function(){var a=window.indeed;
+            if(!a||!a.ia){
+            var b=window,
+                c=document.location,
+                e=document.getElementsByTagName(""head"")[0],
+                f=/^https:\/\//.test(c.href),
+                g=document.createElement(""script""),
+                h=document.getElementById(""indeed-apply-js"").attributes[""data-indeed-apply-qs""],
+                n=h&&h.value?h.value:"""";
+            b.indeed=b.indeed||{};b.indeed.ia=b.indeed.ia||{};
+            g.src=(f?
+        ""https://apply.indeed.com/indeedapply/env?https=1&iip=1&"":""https://apply.indeed.com/indeedapply/env?iip=1&"")+""ms=""+ +new Date+(n?""&""+n:"""");e.appendChild(g)};})();"
+Title: Data Scientist - Technical Lead
+"Location: Atlanta, GA"
+Duration: 3+ Months
+Client: DELL
+Interview mode: Phone OR Skype
+Job Description: 
+Job Type: Contract
+Apply Now
+"
+            Please review all application instructions before applying to DELL."
+"
+(function(){var a=window.indeed;
+            if(!a||!a.ia){
+            var b=window,
+                c=document.location,
+                e=document.getElementsByTagName(""head"")[0],
+                f=/^https:\/\//.test(c.href),
+                g=document.createElement(""script""),
+                h=document.getElementById(""indeed-apply-js"").attributes[""data-indeed-apply-qs""],
+                n=h&&h.value?h.value:"""";
+            b.indeed=b.indeed||{};b.indeed.ia=b.indeed.ia||{};
+            g.src=(f?
+        ""https://apply.indeed.com/indeedapply/env?https=1&iip=1&"":""https://apply.indeed.com/indeedapply/env?iip=1&"")+""ms=""+ +new Date+(n?""&""+n:"""");e.appendChild(g)};})();"
+DEPARTMENT: Program Operations
+"POSITION LOCATIONS: Atlanta, GA."
+ACCOUNTABILITY:  President of Program Operations
+"For 25 years Operation HOPE has been dedicated to empowering underserved communities through financial literacy, now our work encompasses more than financial education. Our work is about instilling knowledge and confidence in those we serve so they can experience, sometimes for the first time in their lives, financial dignity."
+JOB SUMMARY
+"The data analyst collects, organizes, mines, analyzes, and audits large sets of data for impact reporting and operational optimization. The Data Analyst participates as a team member responsible for maintaining the integrity of client database information and provides executable and actionable recommendations for data migration best practices and field operations based on analytical findings."
+DUTIES AND RESPONSIBILITIES
+REQUIRED SKILLS AND EDUCATION
+EEOSTATEMENT
+"Operation HOPE is an Equal Opportunity Employer, all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information or any other characteristic protected by law."
+Job Type: Full-time
+"Salary: $50,000.00 to $60,000.00 /year"
+Experience:
+Education:
+Location:
+Apply Now
+"
+            Please review all application instructions before applying to Operation HOPE."
+"
+(function(){var a=window.indeed;
+            if(!a||!a.ia){
+            var b=window,
+                c=document.location,
+                e=document.getElementsByTagName(""head"")[0],
+                f=/^https:\/\//.test(c.href),
+                g=document.createElement(""script""),
+                h=document.getElementById(""indeed-apply-js"").attributes[""data-indeed-apply-qs""],
+                n=h&&h.value?h.value:"""";
+            b.indeed=b.indeed||{};b.indeed.ia=b.indeed.ia||{};
+            g.src=(f?
+        ""https://apply.indeed.com/indeedapply/env?https=1&iip=1&"":""https://apply.indeed.com/indeedapply/env?iip=1&"")+""ms=""+ +new Date+(n?""&""+n:"""");e.appendChild(g)};})();"
+"Interface is seeking a Data Scientist in Atlanta, GA."
+Position Summary:
+"The Data Scientist will analyze business level data to produce actionable insights utilizing analytics tools and languages such as R, Python and/or C++, etc."
+Essential Duties:
+"The Data Scientist will serve as this organization’s though-leader, helping to grow their data science initiative from a green state. He / She will also be responsible for advancement of analytical projects from inception to delivery and beyond."
+Requirements
+Additional Skills / Knowledge
+Post: 3/20/18
+Remove: 3/27/18
+"We are a VEVRAA Federal Contractor.
+We desire priority referrals of Protected Veterans for job openings at all locations within the State of Georgia.
+An Equal Opportunity Employer including Veterans and Disabled."
+#interface
+"We know salary is a key component of your decision whether or not to apply for a job. So when the hiring company hasn’t provided a salary for a job, we look at salary data from related companies and locations to come up with a reasonable estimate for what you can expect."
+"With over 450,000,000 salaries collected from other jobs and employees, we use one of the biggest salary databases in the world to inform these estimates. And because we are continually adding feedback from users like you, we are able to keep refining our accuracy."
+"These salary estimates are not endorsed by the hiring companies and may vary from what’s actually offered, but we have a pretty great record of getting close enough for you to make an informed decision."
+Is this your job listing? Send us feedback to correct an inaccurate salary estimate.
+"We are looking for talented, driven and autonomous candidates who are professional for deep learning develop for medical imaging such as Alzheimerâ€™s diseases (AD), Parkinson's disease (PD), stroke, Autism, attention deficit hyperactivity disorder (ADHD) etc. You will work in a multidisciplinary team, helping to review, maintain, design, and develop AI algorithm for medical imaging analysis. Our team consists of world leading radiologists, scientists and engineers dedicated to revolutionizing medical imaging with significantly improved image quality, safety and efficiency."
+Job r*esponsibilities*
+Requirement
+implementing deep convolutional neural networks
+Job Type: Full-time
+Education:
+Apply Now
+"
+            Please review all application instructions before applying to YIWEI Medical Inc.."
+"
+(function(){var a=window.indeed;
+            if(!a||!a.ia){
+            var b=window,
+                c=document.location,
+                e=document.getElementsByTagName(""head"")[0],
+                f=/^https:\/\//.test(c.href),
+                g=document.createElement(""script""),
+                h=document.getElementById(""indeed-apply-js"").attributes[""data-indeed-apply-qs""],
+                n=h&&h.value?h.value:"""";
+            b.indeed=b.indeed||{};b.indeed.ia=b.indeed.ia||{};
+            g.src=(f?
+        ""https://apply.indeed.com/indeedapply/env?https=1&iip=1&"":""https://apply.indeed.com/indeedapply/env?iip=1&"")+""ms=""+ +new Date+(n?""&""+n:"""");e.appendChild(g)};})();"
